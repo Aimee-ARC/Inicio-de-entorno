@@ -1,0 +1,10 @@
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Inicio de entorno\Inicio de entorno\bin\Debug\Inicio de entorno.exe.config
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Inicio de entorno\Inicio de entorno\bin\Debug\Inicio de entorno.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Inicio de entorno\Inicio de entorno\bin\Debug\Inicio de entorno.pdb
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Inicio de entorno\Inicio de entorno\obj\Debug\Inicio de entorno.csproj.AssemblyReference.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Inicio de entorno\Inicio de entorno\obj\Debug\Inicio_de_entorno.Form1.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Inicio de entorno\Inicio de entorno\obj\Debug\Inicio_de_entorno.Properties.Resources.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Inicio de entorno\Inicio de entorno\obj\Debug\Inicio de entorno.csproj.GenerateResource.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Inicio de entorno\Inicio de entorno\obj\Debug\Inicio de entorno.csproj.CoreCompileInputs.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Inicio de entorno\Inicio de entorno\obj\Debug\Inicio de entorno.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Inicio de entorno\Inicio de entorno\obj\Debug\Inicio de entorno.pdb
