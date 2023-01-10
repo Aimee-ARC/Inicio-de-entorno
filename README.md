@@ -1,2 +1,3 @@
 # Inicio-de-entorno
- ejercico de inicio de entorno
+ nombre: Aimeé Ramírez Carmona
+ id: 169680
